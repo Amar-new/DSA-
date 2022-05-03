@@ -23,7 +23,8 @@ In case of multiple subarrays, return the subarray which comes first on moving f
 
 You don't need to read input or print anything. The task is to complete the function **subarraySum()** which takes **arr, N and S** as input parameters and returns a list containing the starting and ending positions of the first such occurring subarray from the left where sum equals to S. **The two indexes in the list should be according to 1-based indexing. If no such subarray is found, return an array consisting only one element that is -1.**
 
-**Expected Time Complexity: $O(N)$** <img src="https://latex.codecogs.com/svg.image?\textbf{O(\textit{N})}" title="https://latex.codecogs.com/svg.image?\textbf{O(\textit{N})}" />
-**Expected Auxiliary Space:  $O(1)$**
+**Expected Time Complexity: O(N)** 
+
+**Expected Auxiliary Space:  O(1)**
 
 **Constraints:** <img src="https://latex.codecogs.com/svg.image?&space;1\leq&space;N&space;\leq&space;10^5&space;&space;&space;,&space;&space;&space;1\leq&space;A_i&space;\leq&space;10^9" title="https://latex.codecogs.com/svg.image? 1\leq N \leq 10^5 , 1\leq A_i \leq 10^9" />
