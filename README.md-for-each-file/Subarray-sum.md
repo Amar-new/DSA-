@@ -27,4 +27,4 @@ You don't need to read input or print anything. The task is to complete the func
 
 **Expected Auxiliary Space:  $O(1)$**
 
-**Constraints:**   https://latex.codecogs.com/svg.image?%201%5Cleq%20N%20%5Cleq%2010%5E5%20%20%20,%20%20%201%5Cleq%20A_i%20%5Cleq%2010%5E9
+**Constraints:** <img src="https://latex.codecogs.com/svg.image?&space;1\leq&space;N&space;\leq&space;10^5&space;&space;&space;,&space;&space;&space;1\leq&space;A_i&space;\leq&space;10^9" title="https://latex.codecogs.com/svg.image? 1\leq N \leq 10^5 , 1\leq A_i \leq 10^9" />
